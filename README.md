@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Development and working on real life world projects.
 - 💞️ I’m looking to collaborate on real world software development projects going on.
 - 📫 How to reach me Email: singh540kamal@gmail.com
-- 😄 Pronouns: Kamal
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes funny, sometimes serious 😁 😂
 - Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Python, Java, Git
 
