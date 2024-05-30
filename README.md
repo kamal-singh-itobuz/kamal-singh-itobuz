@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamal-singh-itobuz
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning MERN Development and working on real life world projects.
+- 🌱 I’m currently learning MERN Development and working on real world projects.
 - 💞️ I’m looking to collaborate on real world software development projects going on.
 - 📫 How to reach me Email: singh540kamal@gmail.com
 - 😄 Pronouns: He/Him
