@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamal-singh-itobuz
+- 👋 Hi, I’m @kamal-singh045
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning MERN Development and working on real world projects.
 - 💞️ I’m looking to collaborate on real world software development projects going on.
